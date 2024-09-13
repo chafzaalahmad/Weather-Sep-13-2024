@@ -1,0 +1,140 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "City" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "城市"
+          }
+        }
+      }
+    },
+    "Current Weather" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目前天氣"
+          }
+        }
+      }
+    },
+    "Find weather for city" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尋找城市的天氣"
+          }
+        }
+      }
+    },
+    "Loading data Activity Indicator View" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "載入資料 活動指示器視圖"
+          }
+        }
+      }
+    },
+    "Max:" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大限度："
+          }
+        }
+      }
+    },
+    "Min:" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分鐘："
+          }
+        }
+      }
+    },
+    "Search City" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "搜尋城市"
+          }
+        }
+      }
+    },
+    "Sorry! We could not find weather for search query. Type again city name." : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "对不起！我们无法找到搜索查询的天气。再次输入城市名称。"
+          }
+        }
+      }
+    },
+    "Sorry! We could not find weather. Please try again later" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "對不起！我們找不到天氣。請稍後重試"
+          }
+        }
+      }
+    },
+    "Weather" : {
+      "localizations" : {
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "天氣"
+          }
+        }
+      }
+    },
+    "Weather found for %lld cities" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Weather found for one city"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Weather found for %lld cities"
+                }
+              }
+            }
+          }
+        },
+        "zh-HK" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "找到%lld城市的天氣"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
